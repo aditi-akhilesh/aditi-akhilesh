@@ -137,7 +137,6 @@ Software Engineer with **2 years of experience** building and scaling **distribu
 I'm actively seeking **Software Engineering opportunities** where I can contribute to building scalable, high-performance systems. Feel free to reach out!
 
 📧 **Email:** aditiakhilesh2911@gmail.com  
-📱 **Phone:** 317-491-8339  
 💼 **LinkedIn:** [linkedin.com/in/aditi-akhilesh](https://www.linkedin.com/in/aditi-akhilesh)  
 🌐 **Portfolio:** [aditiakhilesh.netlify.app](https://aditiakhilesh.netlify.app)  
 💻 **GitHub:** [github.com/aditi-akhilesh](https://github.com/aditi-akhilesh)
