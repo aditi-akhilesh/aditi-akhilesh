@@ -3,7 +3,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditi-akhilesh)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditiakhilesh2911@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://aditiakhilesh.netlify.app)
-[![Phone](https://img.shields.io/badge/Phone-317--491--8339-brightgreen?style=for-the-badge)](tel:317-491-8339)
 
 ## 👩‍💻 Summary
 
