@@ -122,16 +122,6 @@ Software Engineer with **2 years of experience** building and scaling **distribu
 
 ---
 
-## 📊 GitHub Stats
-
-![Aditi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditi-akhilesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aditi-akhilesh&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aditi-akhilesh&theme=tokyonight&hide_border=true)
-
----
-
 ## 🤝 Let's Connect!
 
 I'm actively seeking **Software Engineering opportunities** where I can contribute to building scalable, high-performance systems. Feel free to reach out!
