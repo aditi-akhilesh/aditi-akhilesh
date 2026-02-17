@@ -46,7 +46,7 @@ Software Engineer with **2 years of experience** building and scaling **distribu
 - Developed a Spring Boot microservice to ingest and process real-time financial data from Kafka using Spring Data JPA
 - Built and integrated REST APIs for data enrichment and to expose user account balances with proper error handling
 
-### 🔹 [Employee Tracking System](https://github.com/aditi-akhilesh/Employee-Tracking-System) | April 2025
+### 🔹 [Employee Tracking System](https://github.com/aditi-akhilesh/Employee-Tracking-System/blob/main/README.md) | April 2025
 **Tech Stack:** PHP, HTML, CSS, AJAX, SQL
 - Designed a SQL database (3NF) with optimized indexes, improving query performance by **30%** for **500 concurrent users**
 - Developed a responsive front-end using PHP, HTML, CSS, and AJAX for real-time employee check-in/out tracking
