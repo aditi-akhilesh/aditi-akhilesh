@@ -12,13 +12,13 @@ Software Engineer with **2 years of experience** building and scaling **distribu
 
 ## 🎓 Education
 
-### Purdue University | Indianapolis, IN, USA
-**Master of Science in Computer Science** | GPA: 3.73/4.00 | May 2025
+### Purdue University | Indiana, USA
+**Master of Science in Computer Science** | May 2025
 - **Awards:** Dean's Scholarship, Best UI/UX Design Award
 - **Campus Involvement:** Math Tutor, Board Member of Student Activities Board
 - **Relevant Coursework:** Statistical Machine Learning, Data Science, Advanced Database Concepts, Web Database Development, Computer Vision, Cloud Computing, Security Engineering
 
-### APJ Abdul Kalam Technological University | India
+### APJ Abdul Kalam Technological University | Kerala, India
 **Bachelor of Technology in Electronics and Communication Engineering** | May 2021
 - **Publication:** "Performance Improvement of Carry Look Ahead Adder," Science, Technology and Development Journal, 2021
 
@@ -32,7 +32,7 @@ Software Engineer with **2 years of experience** building and scaling **distribu
 - Developed software for **PointMaster**, a scalable distributed monitoring system, improving operational efficiency by **40%**
 - Implemented major core functionality changes in existing protocols using **C++ on Linux**, achieving **4.5/5 client satisfaction**
 - Debugged complex software issues using **GDB debugger**, maintaining system stability in production environments
-- Built a **Python-based CLI** for remote diagnostics, reducing technician deployment time by **87.5%**
+- Built a **Python-based CLI** for remote diagnostics, reducing technician deployment time from **2 minutes to 15 seconds**
 - Ensured **100% backward compatibility** across feature rollouts through rigorous regression testing and version control
 - Maintained **CI/CD pipelines**, authored architecture documentation, and designed test plans within Agile workflows
 - Mentored **3 junior developers** and conducted code reviews, increasing overall team productivity by **15%**
@@ -40,6 +40,11 @@ Software Engineer with **2 years of experience** building and scaling **distribu
 ---
 
 ## 🚀 Projects
+
+### 🔹 [Redis based Rate Limiter | February 2026
+**Tech Stack:** Redis, Lua, C++
+- Implemented a fixed-window rate limiter using Redis and Lua scripting, ensuring atomic low-latency request validation.
+- Benchmarked fixed window, sliding window, and token bucket algorithms, selecting sliding window for optimal burst handling.
 
 ### 🔹 [JP Morgan Chase Software Engineering Job Simulation](https://github.com/aditi-akhilesh) | September 2025
 **Tech Stack:** Spring Boot, Kafka, Spring Data JPA
