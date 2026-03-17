@@ -1,58 +1,88 @@
-# Hi there! 👋 I'm Aditi Akhilesh
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aditi+Akhilesh+%F0%9F%91%8B;Software+Engineer+%7C+C%2B%2B+%7C+Python;Building+reliable%2C+scalable+systems)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditi-akhilesh)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditiakhilesh2911@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://aditiakhilesh.netlify.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditiakhilesh2911@gmail.com)
 
-## 👩‍💻 Summary
-
-Software Engineer with **2 years of experience** building and scaling **distributed Linux systems** using **Python and C++**. I thrive on translating complex technical requirements into efficient, high-quality solutions. Holding an **M.S. in Computer Science from Purdue University (2025)**, I combine strong technical depth with a proactive, communicative approach to achieve reliable results.
-
----
-
-## 🎓 Education
-
-### Purdue University | Indiana, USA
-**Master of Science in Computer Science** | May 2025
-- **Awards:** Dean's Scholarship, Best UI/UX Design Award
-- **Campus Involvement:** Math Tutor, Board Member of Student Activities Board
-- **Relevant Coursework:** Statistical Machine Learning, Data Science, Advanced Database Concepts, Web Database Development, Computer Vision, Cloud Computing, Security Engineering
-
-### APJ Abdul Kalam Technological University | Kerala, India
-**Bachelor of Technology in Electronics and Communication Engineering** | May 2021
-- **Publication:** "Performance Improvement of Carry Look Ahead Adder," Science, Technology and Development Journal, 2021
+</div>
 
 ---
 
-## 💼 Work Experience
+### 👩‍💻 About Me
 
-### Software Engineer | GadgEon Systems Inc. | July 2021 - July 2023
-*Technology services and digital engineering company | Cochin, Kerala, India*
-
-- Developed software for **PointMaster**, a scalable distributed monitoring system, improving operational efficiency by **40%**
-- Implemented major core functionality changes in existing protocols using **C++ on Linux**, achieving **4.5/5 client satisfaction**
-- Debugged complex software issues using **GDB debugger**, maintaining system stability in production environments
-- Built a **Python-based CLI** for remote diagnostics, reducing technician deployment time from **2 minutes to 15 seconds**
-- Ensured **100% backward compatibility** across feature rollouts through rigorous regression testing and version control
-- Maintained **CI/CD pipelines**, authored architecture documentation, and designed test plans within Agile workflows
-- Mentored **3 junior developers** and conducted code reviews, increasing overall team productivity by **15%**
+```yaml
+name:       Aditi Akhilesh
+education:  M.S. Computer Science @ Purdue University (2025)
+experience: 2 years @ GadgEon Systems — distributed Linux systems, C++ & Python
+currently:  Open to Software Engineering roles | Systems, Backend, AI/ML
+interests:  [ "Low-latency systems", "System Design", "NLP", "Distributed Computing" ]
+```
 
 ---
 
-## 🚀 Projects
+### 🛠️ Tech Stack
 
-### 🔹 [Redis based Rate Limiter | February 2026
-**Tech Stack:** Redis, Lua, C++
-- Implemented a fixed-window rate limiter using Redis and Lua scripting, ensuring atomic low-latency request validation.
-- Benchmarked fixed window, sliding window, and token bucket algorithms, selecting sliding window for optimal burst handling.
+**Languages**
 
-### 🔹 [JP Morgan Chase Software Engineering Job Simulation](https://github.com/aditi-akhilesh) | September 2025
-**Tech Stack:** Spring Boot, Kafka, Spring Data JPA
-- Developed a Spring Boot microservice to ingest and process real-time financial data from Kafka using Spring Data JPA
-- Built and integrated REST APIs for data enrichment and to expose user account balances with proper error handling
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### 🔹 [Employee Tracking System](https://github.com/aditi-akhilesh/Employee-Tracking-System/blob/main/README.md) | April 2025
-**Tech Stack:** PHP, HTML, CSS, AJAX, SQL
+**Frameworks & Tools**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Stack | Highlights |
+|---|---|---|
+| [Redis Rate Limiter](https://github.com/aditi-akhilesh) | C++, Redis, Lua | Atomic sliding-window rate limiting; benchmarked 3 algorithms |
+| [Employee Tracking System](https://github.com/aditi-akhilesh/Employee-Tracking-System) | PHP, SQL, AJAX | 3NF schema; 30% query improvement for 500 concurrent users |
+| [Restaurant Recommendation](https://github.com/aditi-akhilesh/RestaurantsRecommendation) | Python, MongoDB, React | 1M+ entries; sub-second response via efficient indexing |
+| [Metaphor Detection NLP](https://github.com/aditi-akhilesh/metaphor-detection) | Python, ML, NLP | 87% F1-score via supervised ML pipeline |
+| [JP Morgan Chase Simulation](https://github.com/aditi-akhilesh) | Spring Boot, Kafka, JPA | Real-time financial data ingestion + REST APIs |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=aditi-akhilesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditi-akhilesh&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+### 🏆 Certifications
+
+AWS Solutions Architect — Fundamentals of Architecting on AWS | Oct 2025
+
+---
+
+<div align="center">
+  <i>Open to Software Engineering & Systems roles. Let's build something great.</i>
+</div>**Tech Stack:** PHP, HTML, CSS, AJAX, SQL
 - Designed a SQL database (3NF) with optimized indexes, improving query performance by **30%** for **500 concurrent users**
 - Developed a responsive front-end using PHP, HTML, CSS, and AJAX for real-time employee check-in/out tracking
 
