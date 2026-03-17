@@ -6,7 +6,7 @@
 
 ## 👩‍💻 Summary
 
-Software Engineer with **2 years of experience** building and scaling **distributed Linux systems** using **Python and C**. I thrive on translating complex technical requirements into efficient, high-quality solutions. Holding an **M.S. in Computer Science from Purdue University (2025)**, I combine strong technical depth with a proactive, communicative approach to achieve reliable results.
+Software Engineer with **2 years of experience** building and scaling **distributed Linux systems** using **Python and C++**. I thrive on translating complex technical requirements into efficient, high-quality solutions. Holding an **M.S. in Computer Science from Purdue University (2025)**, I combine strong technical depth with a proactive, communicative approach to achieve reliable results.
 
 ---
 
@@ -30,7 +30,7 @@ Software Engineer with **2 years of experience** building and scaling **distribu
 *Technology services and digital engineering company | Cochin, Kerala, India*
 
 - Developed software for **PointMaster**, a scalable distributed monitoring system, improving operational efficiency by **40%**
-- Implemented major core functionality changes in existing protocols using **C on Linux**, achieving **4.5/5 client satisfaction**
+- Implemented major core functionality changes in existing protocols using **C++ on Linux**, achieving **4.5/5 client satisfaction**
 - Debugged complex software issues using **GDB debugger**, maintaining system stability in production environments
 - Built a **Python-based CLI** for remote diagnostics, reducing technician deployment time by **87.5%**
 - Ensured **100% backward compatibility** across feature rollouts through rigorous regression testing and version control
